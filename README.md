@@ -2,7 +2,7 @@
 
 *You can play online here:
 
-(url___________)
+https://bootcamp-frontend-col-fs01.github.io/WebPackTicTacToe-David/
 
 Or
 
