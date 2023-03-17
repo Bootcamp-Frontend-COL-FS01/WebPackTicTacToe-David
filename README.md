@@ -1,8 +1,7 @@
-#Welcome to the Tic-Tac-Toe Game
+#Welcome to the Tic-Tac-Toe Game -Typescript Version
 
 *You can play online here:
 
-https://bootcamp-frontend-col-fs01.github.io/WebPackTicTacToe-David/
 
 Or
 

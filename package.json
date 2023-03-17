@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/Bootcamp-Frontend-COL-FS01/practice-3-David#readme",
   "devDependencies": {
+    "@types/node": "^18.15.3",
+    "@types/webpack-env": "^1.18.0",
     "file-loader": "^6.2.0",
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.2",
     "webpack": "^5.76.1",
     "webpack-cli": "^5.0.1"
   },
