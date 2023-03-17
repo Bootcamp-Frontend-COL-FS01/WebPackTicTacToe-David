@@ -1,4 +1,14 @@
-#Welcome to the Tic-Tac-Toe Game
+####  #Welcome to the Tic-Tac-Toe Game ##### 
+
+There are 3 Branches in this repo:
+
+1. *Main branch: tic-tac-toe using JS compiled with WebPack
+
+2. *gh-pages branch: deploy on github pages using the WebPack compilation files of main branch.
+
+3. *TypeScript-Refactor branch: refactored main.js to TypeScript and compiled with WebPack.
+
+
 
 *You can play online here:
 
