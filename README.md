@@ -1,9 +1,5 @@
 #Welcome to the Tic-Tac-Toe Game -Typescript Version
 
-*You can play online here:
-
-
-Or
 
 *You can play on your local machine following these steps:
 1. Clone the repository:
