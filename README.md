@@ -1,9 +1,15 @@
-#Welcome to the Tic-Tac-Toe Game -Typescript Version
+#Welcome to the Tic-Tac-Toe Game -Typescript Version:
 
+*You can play online here:
+
+https://bootcamp-frontend-col-fs01.github.io/WebPackTicTacToe-David/
+
+Or
 
 *You can play on your local machine following these steps:
 1. Clone the repository:
-    git clone git@github.com:Bootcamp-Frontend-COL-FS01/WebPackTicTacToe-David.git
+
+    git clone https://github.com/Bootcamp-Frontend-COL-FS01/WebPackTicTacToe-David.git
 
 2. Please install the game dependencies using in the terminal:
     
